@@ -1,0 +1,29 @@
+<template>
+    
+        <div class="slds-size_3-of-3 slds-card slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small"> Produtos Mais Vendidos - São Paulo/SP
+            <lightning-carousel>
+                <lightning-carousel-image
+                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657024012000/bifeAnchoBassi?"
+                    header = "Bife Ancho (Filé de Costela)"
+                    description = "É retirado da parte dianteira do contrafilé."
+                    alternative-text = "Produto Bife Ancho Bassi."
+                    href = "javascript:void(0);">
+                </lightning-carousel-image>
+                <lightning-carousel-image
+                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657043776000/montanaBifeAncho?"
+                    header = "Bife Ancho (Filé de Costela)"
+                    description = "O Bife Ancho Montana é muito suculento e macio, por conta do seu nível moderado de marmoreio de gordura."
+                    alternative-text = "Produto Bife Ancho Montana."
+                    href = "javascript:void(0);">
+                </lightning-carousel-image>
+                <lightning-carousel-image
+                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657024046000/bifeChorizoBassi?"
+                    header = "Bife de Chorizo (Contrafilé)"
+                    description = "Por ser um corte macio, suculento, de marmoreio moderado e com garantia de sabor."
+                    alternative-text = "Produto Bife de Chorizo Bassi."
+                    href = "javascript:void(0);">
+                </lightning-carousel-image>
+            </lightning-carousel>
+        </div>
+
+</template>
