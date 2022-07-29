@@ -3,21 +3,21 @@
         <div class="slds-size_3-of-3 slds-card slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small"> Produtos Mais Vendidos - São Paulo/SP
             <lightning-carousel>
                 <lightning-carousel-image
-                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657024012000/bifeAnchoBassi?"
+                    src = "https://static.clubeextra.com.br/img/uploads/1/848/11860848.jpg"
                     header = "Bife Ancho (Filé de Costela)"
                     description = "É retirado da parte dianteira do contrafilé."
                     alternative-text = "Produto Bife Ancho Bassi."
                     href = "javascript:void(0);">
                 </lightning-carousel-image>
                 <lightning-carousel-image
-                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657043776000/montanaBifeAncho?"
+                    src = "https://marfrig.com.br/pt/Imagens/marcas/montana/montana-packshot/montana-cortes-resfriados/montana-corte-resfriado-bife-ancho-packshot.png"
                     header = "Bife Ancho (Filé de Costela)"
                     description = "O Bife Ancho Montana é muito suculento e macio, por conta do seu nível moderado de marmoreio de gordura."
                     alternative-text = "Produto Bife Ancho Montana."
                     href = "javascript:void(0);">
                 </lightning-carousel-image>
                 <lightning-carousel-image
-                    src = "https://anas5-dev-ed--c.visualforce.com/resource/1657024046000/bifeChorizoBassi?"
+                    src = "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/27212/medium/contrafile-bovino-bassi-top-sirloin-resfriado-kg_72181.png"
                     header = "Bife de Chorizo (Contrafilé)"
                     description = "Por ser um corte macio, suculento, de marmoreio moderado e com garantia de sabor."
                     alternative-text = "Produto Bife de Chorizo Bassi."
